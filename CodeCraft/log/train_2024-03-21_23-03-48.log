@@ -1,0 +1,145 @@
+2024/03/21 23:03:48 - log_util.py[line:41] - INFO:  Log file path: /mnt/c/Users/consonnm/Desktop/CodeCraft/log/train_2024-03-21_23-03-48.log
+2024/03/21 23:04:19 - train.py[line:39] - INFO:  params: 12149.91232757513
+2024/03/21 23:04:19 - train.py[line:40] - INFO:  Score list: [247340]
+2024/03/21 23:04:19 - train.py[line:41] - INFO:  Total score: 247340
+2024/03/21 23:04:19 - train.py[line:42] - INFO:  Average score: 247340.0
+2024/03/21 23:04:19 - train.py[line:47] - INFO:  After call 1: Best score: 247340.0
+2024/03/21 23:04:19 - train.py[line:48] - INFO:  With parameters: [12149.91232757513]
+2024/03/21 23:04:19 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:04:53 - train.py[line:39] - INFO:  params: 13909.860240067123
+2024/03/21 23:04:53 - train.py[line:40] - INFO:  Score list: [242681]
+2024/03/21 23:04:53 - train.py[line:41] - INFO:  Total score: 242681
+2024/03/21 23:04:53 - train.py[line:42] - INFO:  Average score: 242681.0
+2024/03/21 23:04:53 - train.py[line:47] - INFO:  After call 2: Best score: 247340.0
+2024/03/21 23:04:53 - train.py[line:48] - INFO:  With parameters: [12149.91232757513]
+2024/03/21 23:04:53 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:05:27 - train.py[line:39] - INFO:  params: 14005.619323359299
+2024/03/21 23:05:27 - train.py[line:40] - INFO:  Score list: [242333]
+2024/03/21 23:05:27 - train.py[line:41] - INFO:  Total score: 242333
+2024/03/21 23:05:27 - train.py[line:42] - INFO:  Average score: 242333.0
+2024/03/21 23:05:27 - train.py[line:47] - INFO:  After call 3: Best score: 247340.0
+2024/03/21 23:05:27 - train.py[line:48] - INFO:  With parameters: [12149.91232757513]
+2024/03/21 23:05:27 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:06:01 - train.py[line:39] - INFO:  params: 13930.762171488877
+2024/03/21 23:06:01 - train.py[line:40] - INFO:  Score list: [242450]
+2024/03/21 23:06:01 - train.py[line:41] - INFO:  Total score: 242450
+2024/03/21 23:06:01 - train.py[line:42] - INFO:  Average score: 242450.0
+2024/03/21 23:06:01 - train.py[line:47] - INFO:  After call 4: Best score: 247340.0
+2024/03/21 23:06:01 - train.py[line:48] - INFO:  With parameters: [12149.91232757513]
+2024/03/21 23:06:01 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:06:35 - train.py[line:39] - INFO:  params: 12364.945877501807
+2024/03/21 23:06:35 - train.py[line:40] - INFO:  Score list: [247283]
+2024/03/21 23:06:35 - train.py[line:41] - INFO:  Total score: 247283
+2024/03/21 23:06:35 - train.py[line:42] - INFO:  Average score: 247283.0
+2024/03/21 23:06:35 - train.py[line:47] - INFO:  After call 5: Best score: 247340.0
+2024/03/21 23:06:35 - train.py[line:48] - INFO:  With parameters: [12149.91232757513]
+2024/03/21 23:06:35 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:07:08 - train.py[line:39] - INFO:  params: 10690.671951048898
+2024/03/21 23:07:08 - train.py[line:40] - INFO:  Score list: [251068]
+2024/03/21 23:07:08 - train.py[line:41] - INFO:  Total score: 251068
+2024/03/21 23:07:08 - train.py[line:42] - INFO:  Average score: 251068.0
+2024/03/21 23:07:08 - train.py[line:47] - INFO:  After call 6: Best score: 251068.0
+2024/03/21 23:07:08 - train.py[line:48] - INFO:  With parameters: [10690.671951048898]
+2024/03/21 23:07:08 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:07:43 - train.py[line:39] - INFO:  params: 10082.742245811307
+2024/03/21 23:07:43 - train.py[line:40] - INFO:  Score list: [250089]
+2024/03/21 23:07:43 - train.py[line:41] - INFO:  Total score: 250089
+2024/03/21 23:07:43 - train.py[line:42] - INFO:  Average score: 250089.0
+2024/03/21 23:07:43 - train.py[line:47] - INFO:  After call 7: Best score: 251068.0
+2024/03/21 23:07:43 - train.py[line:48] - INFO:  With parameters: [10690.671951048898]
+2024/03/21 23:07:43 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:08:19 - train.py[line:39] - INFO:  params: 8396.990841222103
+2024/03/21 23:08:19 - train.py[line:40] - INFO:  Score list: [243398]
+2024/03/21 23:08:19 - train.py[line:41] - INFO:  Total score: 243398
+2024/03/21 23:08:19 - train.py[line:42] - INFO:  Average score: 243398.0
+2024/03/21 23:08:19 - train.py[line:47] - INFO:  After call 8: Best score: 251068.0
+2024/03/21 23:08:19 - train.py[line:48] - INFO:  With parameters: [10690.671951048898]
+2024/03/21 23:08:19 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:08:52 - train.py[line:39] - INFO:  params: 9908.594062060793
+2024/03/21 23:08:52 - train.py[line:40] - INFO:  Score list: [245377]
+2024/03/21 23:08:52 - train.py[line:41] - INFO:  Total score: 245377
+2024/03/21 23:08:52 - train.py[line:42] - INFO:  Average score: 245377.0
+2024/03/21 23:08:52 - train.py[line:47] - INFO:  After call 9: Best score: 251068.0
+2024/03/21 23:08:52 - train.py[line:48] - INFO:  With parameters: [10690.671951048898]
+2024/03/21 23:08:52 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:09:26 - train.py[line:39] - INFO:  params: 11343.65582124945
+2024/03/21 23:09:26 - train.py[line:40] - INFO:  Score list: [255025]
+2024/03/21 23:09:26 - train.py[line:41] - INFO:  Total score: 255025
+2024/03/21 23:09:26 - train.py[line:42] - INFO:  Average score: 255025.0
+2024/03/21 23:09:26 - train.py[line:47] - INFO:  After call 10: Best score: 255025.0
+2024/03/21 23:09:26 - train.py[line:48] - INFO:  With parameters: [11343.65582124945]
+2024/03/21 23:09:26 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:10:00 - train.py[line:39] - INFO:  params: 11359.840206625402
+2024/03/21 23:10:00 - train.py[line:40] - INFO:  Score list: [255160]
+2024/03/21 23:10:00 - train.py[line:41] - INFO:  Total score: 255160
+2024/03/21 23:10:00 - train.py[line:42] - INFO:  Average score: 255160.0
+2024/03/21 23:10:00 - train.py[line:47] - INFO:  After call 11: Best score: 255160.0
+2024/03/21 23:10:00 - train.py[line:48] - INFO:  With parameters: [11359.840206625402]
+2024/03/21 23:10:00 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:10:33 - train.py[line:39] - INFO:  params: 11510.93416783918
+2024/03/21 23:10:33 - train.py[line:40] - INFO:  Score list: [247729]
+2024/03/21 23:10:33 - train.py[line:41] - INFO:  Total score: 247729
+2024/03/21 23:10:33 - train.py[line:42] - INFO:  Average score: 247729.0
+2024/03/21 23:10:33 - train.py[line:47] - INFO:  After call 12: Best score: 255160.0
+2024/03/21 23:10:33 - train.py[line:48] - INFO:  With parameters: [11359.840206625402]
+2024/03/21 23:10:33 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:11:07 - train.py[line:39] - INFO:  params: 11331.169781997172
+2024/03/21 23:11:07 - train.py[line:40] - INFO:  Score list: [255698]
+2024/03/21 23:11:07 - train.py[line:41] - INFO:  Total score: 255698
+2024/03/21 23:11:07 - train.py[line:42] - INFO:  Average score: 255698.0
+2024/03/21 23:11:07 - train.py[line:47] - INFO:  After call 13: Best score: 255698.0
+2024/03/21 23:11:07 - train.py[line:48] - INFO:  With parameters: [11331.169781997172]
+2024/03/21 23:11:07 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:11:40 - train.py[line:39] - INFO:  params: 11362.751631385852
+2024/03/21 23:11:40 - train.py[line:40] - INFO:  Score list: [254205]
+2024/03/21 23:11:40 - train.py[line:41] - INFO:  Total score: 254205
+2024/03/21 23:11:40 - train.py[line:42] - INFO:  Average score: 254205.0
+2024/03/21 23:11:40 - train.py[line:47] - INFO:  After call 14: Best score: 255698.0
+2024/03/21 23:11:40 - train.py[line:48] - INFO:  With parameters: [11331.169781997172]
+2024/03/21 23:11:40 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:12:15 - train.py[line:39] - INFO:  params: 11386.252994350718
+2024/03/21 23:12:15 - train.py[line:40] - INFO:  Score list: [254117]
+2024/03/21 23:12:15 - train.py[line:41] - INFO:  Total score: 254117
+2024/03/21 23:12:15 - train.py[line:42] - INFO:  Average score: 254117.0
+2024/03/21 23:12:15 - train.py[line:47] - INFO:  After call 15: Best score: 255698.0
+2024/03/21 23:12:15 - train.py[line:48] - INFO:  With parameters: [11331.169781997172]
+2024/03/21 23:12:15 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:12:49 - train.py[line:39] - INFO:  params: 11353.76761342891
+2024/03/21 23:12:49 - train.py[line:40] - INFO:  Score list: [255625]
+2024/03/21 23:12:49 - train.py[line:41] - INFO:  Total score: 255625
+2024/03/21 23:12:49 - train.py[line:42] - INFO:  Average score: 255625.0
+2024/03/21 23:12:49 - train.py[line:47] - INFO:  After call 16: Best score: 255698.0
+2024/03/21 23:12:49 - train.py[line:48] - INFO:  With parameters: [11331.169781997172]
+2024/03/21 23:12:49 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:13:23 - train.py[line:39] - INFO:  params: 11355.246343293695
+2024/03/21 23:13:23 - train.py[line:40] - INFO:  Score list: [254841]
+2024/03/21 23:13:23 - train.py[line:41] - INFO:  Total score: 254841
+2024/03/21 23:13:23 - train.py[line:42] - INFO:  Average score: 254841.0
+2024/03/21 23:13:23 - train.py[line:47] - INFO:  After call 17: Best score: 255698.0
+2024/03/21 23:13:23 - train.py[line:48] - INFO:  With parameters: [11331.169781997172]
+2024/03/21 23:13:23 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:13:57 - train.py[line:39] - INFO:  params: 11376.420997332
+2024/03/21 23:13:57 - train.py[line:40] - INFO:  Score list: [254117]
+2024/03/21 23:13:57 - train.py[line:41] - INFO:  Total score: 254117
+2024/03/21 23:13:57 - train.py[line:42] - INFO:  Average score: 254117.0
+2024/03/21 23:13:57 - train.py[line:47] - INFO:  After call 18: Best score: 255698.0
+2024/03/21 23:13:57 - train.py[line:48] - INFO:  With parameters: [11331.169781997172]
+2024/03/21 23:13:57 - train.py[line:49] - INFO:  ====================================
+

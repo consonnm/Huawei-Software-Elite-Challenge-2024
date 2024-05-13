@@ -1,0 +1,1 @@
+w_good_val w_good_dis  w_boat_speed  w_boat_size w_boat_transport  w_berth_fill  w_berth_dis  w_berth_arrive   w_berth_vis  w_near_val   w_near_dis  

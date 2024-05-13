@@ -1,0 +1,17 @@
+2024/03/21 23:01:33 - log_util.py[line:41] - INFO:  Log file path: /mnt/c/Users/consonnm/Desktop/CodeCraft/log/train_2024-03-21_23-01-33.log
+2024/03/21 23:02:05 - train.py[line:39] - INFO:  params: 92183.93578795262
+2024/03/21 23:02:05 - train.py[line:40] - INFO:  Score list: [240908]
+2024/03/21 23:02:05 - train.py[line:41] - INFO:  Total score: 240908
+2024/03/21 23:02:05 - train.py[line:42] - INFO:  Average score: 240908.0
+2024/03/21 23:02:05 - train.py[line:47] - INFO:  After call 1: Best score: 240908.0
+2024/03/21 23:02:05 - train.py[line:48] - INFO:  With parameters: [92183.93578795262]
+2024/03/21 23:02:05 - train.py[line:49] - INFO:  ====================================
+
+2024/03/21 23:02:36 - train.py[line:39] - INFO:  params: 127885.73629850449
+2024/03/21 23:02:36 - train.py[line:40] - INFO:  Score list: [240908]
+2024/03/21 23:02:36 - train.py[line:41] - INFO:  Total score: 240908
+2024/03/21 23:02:36 - train.py[line:42] - INFO:  Average score: 240908.0
+2024/03/21 23:02:36 - train.py[line:47] - INFO:  After call 2: Best score: 240908.0
+2024/03/21 23:02:36 - train.py[line:48] - INFO:  With parameters: [92183.93578795262]
+2024/03/21 23:02:36 - train.py[line:49] - INFO:  ====================================
+
